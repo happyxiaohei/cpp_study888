@@ -27,6 +27,9 @@
     <ClCompile Include="taxt_06_sizeof关键字.cpp" />
     <ClCompile Include="taxt_07实型(浮点型).cpp" />
     <ClCompile Include="taxt_08字符型.cpp" />
+    <ClCompile Include="taxt_09转义字符.cpp" />
+    <ClCompile Include="taxt_10字符串型.cpp" />
+    <ClCompile Include="taxt_11布尔类型.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
