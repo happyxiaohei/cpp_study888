@@ -48,5 +48,8 @@
     <ClCompile Include="taxt_11布尔类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_12数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
