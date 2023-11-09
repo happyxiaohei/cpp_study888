@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	//数据的输入
+	//tahsn
 	system("pause");
 
 	return 0;
