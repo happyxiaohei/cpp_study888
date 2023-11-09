@@ -1,7 +1,7 @@
 # include<iostream>
 using namespace std;
 
-int main() {
+int main11() {
 
 	//true = 真(本质是1)
 	//false = 假(本质是0)
