@@ -31,6 +31,7 @@
     <ClCompile Include="taxt_10字符串型.cpp" />
     <ClCompile Include="taxt_11布尔类型.cpp" />
     <ClCompile Include="taxt_12数据的输入.cpp" />
+    <ClCompile Include="taxt_13运算符.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
