@@ -32,6 +32,9 @@
     <ClCompile Include="taxt_11布尔类型.cpp" />
     <ClCompile Include="taxt_12数据的输入.cpp" />
     <ClCompile Include="taxt_13运算符.cpp" />
+    <ClCompile Include="taxt_14赋值运算符.cpp" />
+    <ClCompile Include="taxt_15比较运算符.cpp" />
+    <ClCompile Include="taxt_16逻辑运算符.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
