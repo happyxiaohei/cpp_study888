@@ -63,5 +63,8 @@
     <ClCompile Include="taxt_16逻辑运算符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_17选择结构-if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
