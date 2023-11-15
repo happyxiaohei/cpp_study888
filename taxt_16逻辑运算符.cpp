@@ -1,7 +1,7 @@
 # include<iostream>
 using namespace std;
 
-int main17() {
+int main16() {
 
 	// ! 非   &&与   ||  或
 	cout << "1为真,0为假" << endl;

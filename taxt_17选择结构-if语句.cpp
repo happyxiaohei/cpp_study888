@@ -1,7 +1,7 @@
 # include<iostream>
 using namespace std;
 
-int main() {
+int main17() {
 
 	////1.用户输入分数
 	//int score = 0;
@@ -82,37 +82,37 @@ int main() {
 	//接下来是if语句嵌套
 	
 
-	int score4;
-	cout << "请输入您的考试分数:" << endl;
-	cin >> score4;
-	if (score4 > 600)
-	{
-		cout << "恭喜您,考上了一本大学" << endl;
-		if (score4 > 700)
-		{
-			cout << "您能选择北京大学" << endl;
-		}
-		else if (score4 > 650)
-		{
-			cout << "您能选择清华大学" << endl;
-		}
-		else  
-		{
-			cout << "您能选择人民大学" << endl;
-		}
-	}
-	else if (score4 > 500)
-	{
-		cout << "恭喜您,考上了二本大学" << endl;
-	}
-	else if (score4 > 400)
-	{
-		cout << "恭喜您,考上了三本大学" << endl;
-	}
-	else
-	{
-		cout << "恭喜您,考上了本科大学" << endl;
-	}
+	//int score4;
+	//cout << "请输入您的考试分数:" << endl;
+	//cin >> score4;
+	//if (score4 > 600)
+	//{
+	//	cout << "恭喜您,考上了一本大学" << endl;
+	//	if (score4 > 700)
+	//	{
+	//		cout << "您能选择北京大学" << endl;
+	//	}
+	//	else if (score4 > 650)
+	//	{
+	//		cout << "您能选择清华大学" << endl;
+	//	}
+	//	else  
+	//	{
+	//		cout << "您能选择人民大学" << endl;
+	//	}
+	//}
+	//else if (score4 > 500)
+	//{
+	//	cout << "恭喜您,考上了二本大学" << endl;
+	//}
+	//else if (score4 > 400)
+	//{
+	//	cout << "恭喜您,考上了三本大学" << endl;
+	//}
+	//else
+	//{
+	//	cout << "恭喜您,考上了本科大学" << endl;
+	//}
 
 
 
@@ -121,6 +121,41 @@ int main() {
 	//三只小猪称体重
 	//有三只小猪
 
+	int xz1 = 0;
+	int xz2 = 0;
+	int xz3 = 0;
+
+	cout << "请输入第一只小猪重量" << endl;
+	cin >> xz1;
+
+	cout << "请输入第二只小猪重量" << endl;
+	cin >> xz2;
+
+	cout << "请输入第三只小猪重量" << endl;
+	cin >> xz3;
+
+	if (xz1 > xz2)//先判断第一只和第二只
+	{
+		if (xz1 > xz3)//假如第一只比第二只重,那么接下来就判断第一只和第三只
+		{
+			cout << "第一只小猪最重" << endl;
+		}
+		else// 如果不大于第三只,那么直接输出第三只最重
+		{
+			cout << "第三只小猪最重" << endl;
+		}
+	}
+	else//如果第二只比第一只大,那么接下来判断第二只和第三只的重量
+	{
+		if (xz2 > xz3)
+		{
+			cout << "第二只小猪最重" << endl;//如果第二只大于第三只  那么输出第二只大的结果
+		}
+		else
+		{
+			cout << "第三只小猪最重" << endl;//假如第二只不大于第三只,那么就是第三只最重
+		}
+	}
 	system("pause");
 
 	return 0;

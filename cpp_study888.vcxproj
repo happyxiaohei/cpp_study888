@@ -36,6 +36,8 @@
     <ClCompile Include="taxt_15比较运算符.cpp" />
     <ClCompile Include="taxt_16逻辑运算符.cpp" />
     <ClCompile Include="taxt_17选择结构-if语句.cpp" />
+    <ClCompile Include="taxt_18三目运算符.cpp" />
+    <ClCompile Include="taxt_19switch语句.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
