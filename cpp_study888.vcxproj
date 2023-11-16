@@ -38,6 +38,10 @@
     <ClCompile Include="taxt_17选择结构-if语句.cpp" />
     <ClCompile Include="taxt_18三目运算符.cpp" />
     <ClCompile Include="taxt_19switch语句.cpp" />
+    <ClCompile Include="taxt_20while循环语句.cpp" />
+    <ClCompile Include="taxt_21while循环猜数字.cpp" />
+    <ClCompile Include="taxt_22do-while循环语句.cpp" />
+    <ClCompile Include="taxt_23do_while水仙花案例.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
