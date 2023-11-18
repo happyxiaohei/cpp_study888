@@ -1,7 +1,7 @@
 # include<iostream>
 using namespace std;
 
-int main() {
+int main23() {
 
 	//1.先打印所有三位数字
 

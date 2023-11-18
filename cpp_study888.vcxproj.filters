@@ -84,5 +84,23 @@
     <ClCompile Include="taxt_23do_while水仙花案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_24for循环语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_25嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_26for循环打印乘法口诀表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_27跳转语句break的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_28跳转语句continue的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_29跳转语句goto的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

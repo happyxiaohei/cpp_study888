@@ -42,6 +42,12 @@
     <ClCompile Include="taxt_21while循环猜数字.cpp" />
     <ClCompile Include="taxt_22do-while循环语句.cpp" />
     <ClCompile Include="taxt_23do_while水仙花案例.cpp" />
+    <ClCompile Include="taxt_24for循环语句.cpp" />
+    <ClCompile Include="taxt_25嵌套循环.cpp" />
+    <ClCompile Include="taxt_26for循环打印乘法口诀表.cpp" />
+    <ClCompile Include="taxt_27跳转语句break的使用.cpp" />
+    <ClCompile Include="taxt_28跳转语句continue的使用.cpp" />
+    <ClCompile Include="taxt_29跳转语句goto的使用.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
