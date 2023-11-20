@@ -48,6 +48,8 @@
     <ClCompile Include="taxt_27跳转语句break的使用.cpp" />
     <ClCompile Include="taxt_28跳转语句continue的使用.cpp" />
     <ClCompile Include="taxt_29跳转语句goto的使用.cpp" />
+    <ClCompile Include="taxt_30一维数组的定义.cpp" />
+    <ClCompile Include="taxt_31一维数组的数组名.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
