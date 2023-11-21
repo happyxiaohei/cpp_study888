@@ -50,6 +50,8 @@
     <ClCompile Include="taxt_29跳转语句goto的使用.cpp" />
     <ClCompile Include="taxt_30一维数组的定义.cpp" />
     <ClCompile Include="taxt_31一维数组的数组名.cpp" />
+    <ClCompile Include="taxt_32五只小猪称体重.cpp" />
+    <ClCompile Include="taxt_33数组元素逆置案例.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
