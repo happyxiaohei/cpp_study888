@@ -52,6 +52,9 @@
     <ClCompile Include="taxt_31一维数组的数组名.cpp" />
     <ClCompile Include="taxt_32五只小猪称体重.cpp" />
     <ClCompile Include="taxt_33数组元素逆置案例.cpp" />
+    <ClCompile Include="taxt_34冒泡排序案例.cpp" />
+    <ClCompile Include="taxt_35二维数组.cpp" />
+    <ClCompile Include="taxt_36二维数组数组名.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
