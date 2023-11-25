@@ -1,7 +1,7 @@
 # include<iostream>
 using namespace std;
 
-int main() {
+int main44() {
 
 	//可以通过指针来保存一个地址    指针就是一个地址
 	//定义一个指针
