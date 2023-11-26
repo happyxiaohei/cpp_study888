@@ -4,7 +4,7 @@ using namespace std;
 
 //1.创建学生数据类型   学生包括(姓名,年龄,分数)
 //自定义数据类型,一些类型集合组成一个类型
-//语法   struct  数据类型   {成员列表}
+//语法   struct (思抓特)   数据类型   {成员列表}
 struct Student
 {
 	//成员列表
@@ -23,7 +23,7 @@ struct Student
 //2.通过学生的类型创建具体的学生
 
 
-int main() {
+int main51() {
 
 	//结构体的定义和使用
 

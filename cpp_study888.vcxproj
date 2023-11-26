@@ -71,6 +71,11 @@
     <ClCompile Include="taxt_49指针和函数.cpp" />
     <ClCompile Include="taxt_50指针数组函数案例.cpp" />
     <ClCompile Include="taxt_51结构体定义和使用.cpp" />
+    <ClCompile Include="taxt_52结构体数组.cpp" />
+    <ClCompile Include="taxt_53结构体指针.cpp" />
+    <ClCompile Include="taxt_54结构体嵌套结构体.cpp" />
+    <ClCompile Include="taxt_55结构体做函数参数.cpp" />
+    <ClCompile Include="taxt_56结构体中const使用场景.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />
