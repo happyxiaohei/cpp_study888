@@ -186,6 +186,9 @@
     <ClCompile Include="taxt_56结构体中const使用场景.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_57结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">

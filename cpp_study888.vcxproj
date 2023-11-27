@@ -76,6 +76,7 @@
     <ClCompile Include="taxt_54结构体嵌套结构体.cpp" />
     <ClCompile Include="taxt_55结构体做函数参数.cpp" />
     <ClCompile Include="taxt_56结构体中const使用场景.cpp" />
+    <ClCompile Include="taxt_57结构体案例1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />
