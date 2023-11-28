@@ -83,7 +83,7 @@ void pringInfo(struct Tescher tArray[], int len)
 
 
 
-int main() {
+int main57() {
 
 	//第十一步   添加随机数种子  //这步很重要   不然生成的分数永远是一样的
 
