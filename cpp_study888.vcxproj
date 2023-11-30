@@ -79,6 +79,7 @@
     <ClCompile Include="taxt_57结构体案例1.cpp" />
     <ClCompile Include="taxt_58复习结构体1.cpp" />
     <ClCompile Include="taxt_59结构体案例2.cpp" />
+    <ClCompile Include="taxt_60复习结构体2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />

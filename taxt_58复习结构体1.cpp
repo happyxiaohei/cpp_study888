@@ -76,10 +76,15 @@ void akkcationSoace(struct tracher Tsarray[], int len)
 
 }
 
+
+
 //创建打印所有信息的函数
 
 void pringInga(struct tracher Tsarry[3], int len)
 {
+
+
+
 
 	for (int i = 0; i < len; i++)
 
@@ -92,27 +97,33 @@ void pringInga(struct tracher Tsarry[3], int len)
 			cout << "\t学生姓名  :  " << Tsarry[i].sarray[j].sName<<
 			"\t  学生分数  :  " << Tsarry[i].sarray[j].score <<
 			 "\t学生年龄  :  " << Tsarry[i].sarray[j].age << endl;
+
+			/*cout << "\t  学生分数  :  " << Tsarry[i].sarray[j].score << endl;*/
 		}
 
 	}
 
 
+
+
 }
 
-int main58() {
+int main() {
 	//添加随机数种子
 	srand((unsigned int)time(NULL));
 	
 	//接下来去主函数里创建三个老师数组
 
 
-	struct tracher Tsarray[3];
+	//struct tracher Tsarray[3];
+	tracher Tsarray[3];
 
 	int len = sizeof(Tsarray) / sizeof(Tsarray[0]);
 	
 
 
 	akkcationSoace(Tsarray, len);    //这里主函数里输出上面函数赋值的内容
+
 
 
 

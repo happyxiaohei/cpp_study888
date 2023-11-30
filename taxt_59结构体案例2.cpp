@@ -47,7 +47,7 @@ void pringtHero(struct Hero heroArray[], int len)
 
 }
 
-int main() {
+int main59() {
 
 
 
