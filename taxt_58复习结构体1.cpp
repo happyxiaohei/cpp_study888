@@ -108,7 +108,7 @@ void pringInga(struct tracher Tsarry[3], int len)
 
 }
 
-int main() {
+int main58() {
 	//添加随机数种子
 	srand((unsigned int)time(NULL));
 	
