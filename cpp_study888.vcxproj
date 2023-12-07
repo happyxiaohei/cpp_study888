@@ -83,6 +83,15 @@
     <ClCompile Include="taxt_61内存分区模型_全局区.cpp" />
     <ClCompile Include="taxt_62栈区.cpp" />
     <ClCompile Include="taxt_63堆区.cpp" />
+    <ClCompile Include="taxt_64引用.cpp" />
+    <ClCompile Include="taxt_65引用做函数参数.cpp" />
+    <ClCompile Include="taxt_66引用做函数返回值.cpp" />
+    <ClCompile Include="taxt_67引用的本质.cpp" />
+    <ClCompile Include="taxt_68常量引用.cpp" />
+    <ClCompile Include="taxt_69函数默认参数.cpp" />
+    <ClCompile Include="taxt_70函数占位参数.cpp" />
+    <ClCompile Include="taxt_71函数重载语法.cpp" />
+    <ClCompile Include="taxt_72函数重载注意事项.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />
