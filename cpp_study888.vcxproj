@@ -92,6 +92,8 @@
     <ClCompile Include="taxt_70函数占位参数.cpp" />
     <ClCompile Include="taxt_71函数重载语法.cpp" />
     <ClCompile Include="taxt_72函数重载注意事项.cpp" />
+    <ClCompile Include="taxt_73封装的意义.cpp" />
+    <ClCompile Include="taxt_74封装案例.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />
