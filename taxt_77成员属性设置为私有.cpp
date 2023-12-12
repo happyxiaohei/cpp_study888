@@ -1,73 +1,101 @@
-
+#define _CRT_SECURE_NO_WARNINGS 1 
 # include<iostream>
 #include<string.h>
 
 using namespace std;
+
 //成员属性设置私有
 //1.可以自己控制读写权限
 //2.对于写可以检测数据有效性
-
-class person
+class Person
 {
 public:
-	//设置姓名
 
-	void steName(string name)
+	void setName(string name)
 	{
 		m_Name = name;
+
 	}
-	//获取姓名
+
 	string getName()
 	{
+
 		return m_Name;
 	}
 
-	////获取年龄
-	//int getage()
-	//{
-	//	return m_age;
-	//}
-
-	int getage()
+	//获取年龄
+	int getAge()
 	{
-		
-		return m_age;
+		return m_Age;
+	}
+	//设置年龄(0~150)
+	void setAge(int age)
+	{
+		if (age < 0 || age >150)
+		{
+			cout << "年龄"<<age<<"输入有误, 赋值失败" << endl;
+			return;
+		}
+		m_Age = age;
 	}
 
-private :
+	//设置偶像
+	void setIdol(string idol)
+	{
+		m_Idol = idol;
 
-	string m_Name; //姓名   可读可写
+	}
+private:
 
-	int m_age = 12;  //年龄   只读不写
+	string m_Name;  //姓名    可读可写
 
+	int m_Age = 18;  //年龄   只读   也可以写(年龄必须在0-150之间)
 
 	string m_Idol;  //偶像  只写
 };
 
-int main() {
+int main77()
+{
+	Person p;
 
+	//姓名设置
 
-	person p1;
-	//设置姓名
-	p1.steName("张三");
-	//获取姓名
-	cout << "  姓名  : " <<p1.getName()<< endl;
+	p.setName("张三");
 
+	cout << "姓名:  " << p.getName() << endl;
 
-	//年龄设置
-	//p1.gatAge(20);
-	//p1.m_Age = 20;
-	
-	//获取年龄
+	//年龄设置      在私有权限里 类外是不可以修改类内的数据的
+	p.setAge(180);
+	//p.m_Age = 20;
+	cout << "年龄为:  " << p.getAge() << endl;
 
-	//cout << "  年龄  : " << p1.getage() << endl;
-	cout << "年龄为:" << p1.getage() << endl;
+	//偶像设置
+	p.setIdol("小米"); //只写
+
+	//cout << "偶像为:  " << p.getIdol() << endl;  //只写状态   外界访问不到
 
 	system("pause");
-
-	return 0;
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

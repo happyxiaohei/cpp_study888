@@ -97,7 +97,7 @@
     <ClCompile Include="taxt_75封装的权限.cpp" />
     <ClCompile Include="taxt_76struct和class的区别.cpp" />
     <ClCompile Include="taxt_77成员属性设置为私有.cpp" />
-    <ClCompile Include="测试.cpp" />
+    <ClCompile Include="taxt_78封装案例-立方体.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />
