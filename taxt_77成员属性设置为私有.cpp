@@ -75,6 +75,7 @@ int main77()
 	//cout << "偶像为:  " << p.getIdol() << endl;  //只写状态   外界访问不到
 
 	system("pause");
+	return 0;
 }
 
 
