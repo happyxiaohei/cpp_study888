@@ -96,7 +96,7 @@ bool isSame(Cube &c1, Cube &c2)
 	return false;
 
 }
-int main() {
+int main78() {
 
 	//创建立方体对象
 

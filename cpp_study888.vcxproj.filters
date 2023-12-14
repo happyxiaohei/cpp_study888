@@ -252,9 +252,24 @@
     <ClCompile Include="taxt_78封装案例-立方体.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_79封装案例-点和圆的关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_79点和圆的point的源文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_79点和圆的Circle的源文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="taxt_79点和圆的头文件point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="taxt_79点和圆的头文件Circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
