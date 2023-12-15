@@ -99,7 +99,7 @@ void isInCircle(Circle& c, point& p)
 		cout << "点在圆内" << endl;
 	}
 }
-int main() {
+int main79() {
 
 	//创建一个圆
 	Circle c;
