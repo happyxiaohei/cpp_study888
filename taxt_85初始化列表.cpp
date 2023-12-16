@@ -40,7 +40,7 @@ void test666()
 	cout << "  m_B = " << p.m_B << endl;
 	cout << "  m_C = " << p.m_C << endl;
 }
-int main() {
+int main85() {
 
 	test666();
 
