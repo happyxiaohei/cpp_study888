@@ -39,11 +39,11 @@ void test3()
 
 	person p1("张三", "华为");
 	cout << "name:" << p1.m_name << endl;
-	cout << "Cname:" << p1.C_name.z_name << endl;
+	cout << "衣服为:" << p1.C_name.z_name << endl;
 
 
 }
-int main88()
+int main1231231()
 {
 
 
