@@ -75,7 +75,7 @@ void test8601()
 
 }
 
-int main() {
+int main86() {
 
 	test8601();
 	system("pause");
