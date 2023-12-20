@@ -294,6 +294,15 @@
     <ClCompile Include="taxt_90this指针的使用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_91空指针调用成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_92const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_93全局函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">
