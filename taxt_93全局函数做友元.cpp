@@ -47,7 +47,7 @@ void test9301()
 	Building93 building;
 	goodGay(building);
 }
-int main() {
+int main93() {
 
 	test9301();
 	
