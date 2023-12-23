@@ -312,6 +312,21 @@
     <ClCompile Include="taxt_96加号运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_97左移运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_98递增运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_99赋值运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_100关系运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_101函数调用运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">

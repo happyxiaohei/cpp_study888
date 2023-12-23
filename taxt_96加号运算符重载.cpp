@@ -100,7 +100,7 @@ void test9601()
 
 
 
-int main() {
+int main96() {
 
 	test9601();
 
