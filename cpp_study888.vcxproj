@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="taxt_100关系运算符重载.cpp" />
     <ClCompile Include="taxt_101函数调用运算符重载.cpp" />
+    <ClCompile Include="taxt_102继承的基本语法.cpp" />
+    <ClCompile Include="taxt_103继承方式.cpp" />
     <ClCompile Include="taxt_89成员变量和成员函数分开储存.cpp" />
     <ClCompile Include="taxt_01.cpp" />
     <ClCompile Include="taxt_02.cpp" />

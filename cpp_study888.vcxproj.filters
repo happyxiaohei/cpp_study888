@@ -327,6 +327,12 @@
     <ClCompile Include="taxt_101函数调用运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_102继承的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_103继承方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">
