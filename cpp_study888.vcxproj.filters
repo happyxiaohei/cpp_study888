@@ -333,6 +333,21 @@
     <ClCompile Include="taxt_103继承方式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_104继承中的对象模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_105继承中的构造和析构顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_106继承同名成员处理方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_107继承中的同名静态成员处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_108多继承语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">
