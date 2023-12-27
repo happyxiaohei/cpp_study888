@@ -27,6 +27,7 @@
     <ClCompile Include="taxt_106继承同名成员处理方式.cpp" />
     <ClCompile Include="taxt_107继承中的同名静态成员处理.cpp" />
     <ClCompile Include="taxt_108多继承语法.cpp" />
+    <ClCompile Include="taxt_109菱形继承.cpp" />
     <ClCompile Include="taxt_89成员变量和成员函数分开储存.cpp" />
     <ClCompile Include="taxt_01.cpp" />
     <ClCompile Include="taxt_02.cpp" />

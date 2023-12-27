@@ -60,7 +60,7 @@ void test10801()
 	cout << "m_A = " << s.Base10802::m_A << endl;
 
 }
-int main() {
+int main108() {
 
 	test10801();
 
