@@ -32,6 +32,7 @@
     <ClCompile Include="taxt_111多态实现-计算器案例.cpp" />
     <ClCompile Include="taxt_112纯虚函数和抽象类.cpp" />
     <ClCompile Include="taxt_114虚析构和纯虚析构.cpp" />
+    <ClCompile Include="taxt_115多态案例-电脑组装.cpp" />
     <ClCompile Include="taxt_89成员变量和成员函数分开储存.cpp" />
     <ClCompile Include="taxt_01.cpp" />
     <ClCompile Include="taxt_02.cpp" />

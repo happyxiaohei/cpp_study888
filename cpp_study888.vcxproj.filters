@@ -366,6 +366,9 @@
     <ClCompile Include="taxt_114虚析构和纯虚析构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_115多态案例-电脑组装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h">
