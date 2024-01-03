@@ -2,6 +2,8 @@
 using namespace std;
 #include<fstream>
 #include<string>
+
+
 void test11701()
 {
 
@@ -63,7 +65,7 @@ void test11701()
 	//5.关闭文件
 	ifs.close();
 }
-int main() {
+int main117() {
 
 	//总结
 	//读文件可以利用ifstream  或者fstream 类
