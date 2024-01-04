@@ -37,6 +37,8 @@
     <ClCompile Include="taxt_117文本文件-读文件.cpp" />
     <ClCompile Include="taxt_118二进制文件-写文件.cpp" />
     <ClCompile Include="taxt_119二进制方式-读文件.cpp" />
+    <ClCompile Include="taxt_120函数模板.cpp" />
+    <ClCompile Include="taxt_121函数模版注意事项.cpp" />
     <ClCompile Include="taxt_89成员变量和成员函数分开储存.cpp" />
     <ClCompile Include="taxt_01.cpp" />
     <ClCompile Include="taxt_02.cpp" />
@@ -141,6 +143,7 @@
     <ClCompile Include="taxt_99赋值运算符重载.cpp" />
     <ClCompile Include="taxt_105继承中的构造和析构顺序.cpp" />
     <ClCompile Include="taxt_113多态案例-饮品制作.cpp" />
+    <ClCompile Include="text_122函数模版案例.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taxt_43函数的分文件的头文件swap1.h" />

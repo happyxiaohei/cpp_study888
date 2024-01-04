@@ -33,7 +33,7 @@ void test11801()
 	ofs.close();
 }
 
-int main119() {
+int main118() {
 
 	test11801();
 	//总结: 文件输出流对象可以通过write函数,以二进制方式写数据
