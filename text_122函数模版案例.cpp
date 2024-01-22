@@ -81,7 +81,7 @@ void test12202()
 }
 
 
-int main() {
+int main122() {
 
 	test12201();
 	
